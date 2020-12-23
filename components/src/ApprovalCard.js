@@ -1,5 +1,4 @@
 import React from "react";
-
 const ApprovalCard = (props) => {
   return (
     <div className="ui card">
